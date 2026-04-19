@@ -1,0 +1,8 @@
+# robots.txt for https://www.iiylw.com
+# 2011/12/26
+
+User-agent: *
+Disallow: /error/
+Disallow: /html/
+Disallow: /static/
+Disallow: /*.conf
